@@ -1,0 +1,27 @@
+.layout {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  background: transparent;
+}
+
+.header {
+  text-align: center;
+  height: 64px;
+  padding-inline: 48px;
+  line-height: 64px;
+  background-color: #0073B7;
+}
+.header h1 {
+  color: #E0E0E0;
+}
+
+.content {
+  text-align: center;
+  min-height: 120;
+  line-height: 120px;
+  color: #fff;
+  background-color: none;
+  padding: 1.5rem;
+}/*# sourceMappingURL=App.css.map */
